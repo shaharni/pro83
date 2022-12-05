@@ -1,0 +1,46 @@
+.Paint
+{
+    background-image: url("pencil.webp");
+    background-position: center;
+    background-size: cover;
+}
+
+body
+{
+    cursor: pointer;
+}
+
+h1
+{
+    color: red;
+    font-size: 50px;
+}
+
+#Clear
+{
+    background-color: green;
+    border: darkcyan;
+    color: white;
+    padding: 10px 42px;
+    font-size: 20px;
+}
+
+#mycanvas
+{
+    border-width: 10px;
+    background-color: white;
+    border-color: gray;
+    border-style: ridge;
+}
+
+#color
+{
+    margin-right: 20px;
+}
+
+#width
+{
+    margin-right: 20px;
+}
+
+
